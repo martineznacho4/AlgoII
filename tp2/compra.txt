@@ -1,0 +1,5 @@
+pollo    5
+papas    10
+pan    7
+sopa 10
+huevos    300
