@@ -1,2 +1,2 @@
 super:
-	g++ main.cpp ./clases/*.cpp -o super
+	g++ *.cpp ./clases/*.cpp -o super

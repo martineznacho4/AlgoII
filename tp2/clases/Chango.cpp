@@ -111,28 +111,3 @@ void Chango::aumentar_tamanio(){
     delete [] this->get_productos();
     this->set_productos(aux);
 };
-
-
-
-
-
-
-
-// leche    15    0    50
-// pan    20    1    30
-// manzanas    10    0    100
-// yogur    5    0    50
-// pasta    50    1    200
-// aceite    30    0    70
-// huevos    10    0    200
-// pollo    50    0    300
-// papas    10    0    150
-// arroz    5    0    400
-// agua    10    1    500
-// cafe    15    0    300
-
-// pollo    5
-// papas    10
-// pan    7
-// sopa 10
-// huevos    300
