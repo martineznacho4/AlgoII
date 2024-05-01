@@ -1,0 +1,12 @@
+JFK Aeropuerto-John-F.-Kennedy Nueva-York Estados-Unidos LHR Aeropuerto-de-Heathrow Londres Reino-Unido 1200
+CDG Aeropuerto-Charles-de-Gaulle París Francia HND Aeropuerto-de-Haneda Tokio Japón 980
+DXB Aeropuerto-Internacional-de-Dubái Dubái Emiratos-Árabes-Unidos JFK Aeropuerto-John-F.-Kennedy Nueva-York Estados-Unidos 1500
+SIN Aeropuerto-de-Singapur Singapur Singapur SFO Aeropuerto-Internacional-de-San-Francisco San-Francisco Estados-Unidos 800
+ICN Aeropuerto-Internacional-de-Incheon Seúl Corea-del-Sur LAX Aeropuerto-Internacional-de-Los-Angeles Los-Ángeles Estados-Unidos 1100
+SYD Aeropuerto-Kingsford-Smith Sídney Australia LHR Aeropuerto-de-Heathrow Londres Reino-Unido 1300
+PEK Aeropuerto-Internacional-de-Pekín Pekín China JFK Aeropuerto-John-F.-Kennedy Nueva-York Estados-Unidos 900
+MEX Aeropuerto-Benito-Juárez Ciudad-de-México México LAX Aeropuerto-Internacional-de-Los-Angeles Los-Ángeles Estados-Unidos 500
+JFK Aeropuerto-John-F.-Kennedy Nueva-York Estados-Unidos CDG Aeropuerto-Charles-de-Gaulle París Francia 1100
+HND Aeropuerto-de-Haneda Tokio Japón ICN Aeropuerto-Internacional-de-Incheon Seúl Corea-del-Sur 980
+LAX Aeropuerto-Internacional-de-Los-Angeles Los-Ángeles Estados-Unidos SIN Aeropuerto-de-Singapur Singapur Singapur 1100
+SIN Aeropuerto-de-Singapur Singapur Singapur SYD Aeropuerto-Kingsford-Smith Sídney Australia 900
